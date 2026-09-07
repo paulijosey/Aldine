@@ -40,5 +40,3 @@ deploy/demo/*.pub
 # local tooling
 .entire/
 
-# claude plugins
-docs/superpowers/*
